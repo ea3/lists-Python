@@ -22,3 +22,16 @@ print(newlist)
 popped_item = newlist.pop()
 print(popped_item)
 print(newlist)
+
+new_list = ['s','k','j','b','a','f','g']
+num_list = [4,8,0,3,6,2,1]
+new_list.sort()
+print(new_list)
+num_list.sort()
+print(num_list)
+num_list.reverse()
+print(num_list)
+new_list.reverse()
+print(new_list)
+
+
